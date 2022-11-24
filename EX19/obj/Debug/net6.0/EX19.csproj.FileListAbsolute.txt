@@ -1,0 +1,15 @@
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.csproj.AssemblyReference.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.AssemblyInfoInputs.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.AssemblyInfo.cs
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.csproj.CoreCompileInputs.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\bin\Debug\net6.0\EX19.exe
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\bin\Debug\net6.0\EX19.deps.json
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\bin\Debug\net6.0\EX19.runtimeconfig.json
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\bin\Debug\net6.0\EX19.dll
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\bin\Debug\net6.0\EX19.pdb
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.dll
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\refint\EX19.dll
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.pdb
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\EX19.genruntimeconfig.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX19\obj\Debug\net6.0\ref\EX19.dll

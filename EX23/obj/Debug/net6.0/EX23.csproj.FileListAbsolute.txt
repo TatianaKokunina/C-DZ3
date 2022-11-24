@@ -1,0 +1,15 @@
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\bin\Debug\net6.0\EX23.exe
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\bin\Debug\net6.0\EX23.deps.json
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\bin\Debug\net6.0\EX23.runtimeconfig.json
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\bin\Debug\net6.0\EX23.dll
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\bin\Debug\net6.0\EX23.pdb
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.csproj.AssemblyReference.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.AssemblyInfoInputs.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.AssemblyInfo.cs
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.csproj.CoreCompileInputs.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.dll
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\refint\EX23.dll
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.pdb
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\EX23.genruntimeconfig.cache
+D:\Базовый курс. Тестировщик\С#DZ3\EX23\obj\Debug\net6.0\ref\EX23.dll
